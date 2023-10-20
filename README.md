@@ -12,12 +12,20 @@
 
 
   *Скриншоты задания №1*
+
+*Команда show run на R1 и R2 до имитации неисправности*
   
 ![Commit Task1](https://github.com/AndrewZnamenskiy/Keepalived/blob/main/img/task1p1.png)
 
+*Команда show standby brief до имитации неисправности*
+
 ![Commit Task1](https://github.com/AndrewZnamenskiy/Keepalived/blob/main/img/task1p2.png)
 
+*Имитация обрыва линка R1 - SW1*
+
 ![Commit Task1](https://github.com/AndrewZnamenskiy/Keepalived/blob/main/img/task1p3.png)
+
+*Команда show standby brief после имитации неисправности*
 
 ![Commit Task1](https://github.com/AndrewZnamenskiy/Keepalived/blob/main/img/task1p4.png)
 
@@ -37,7 +45,11 @@
 
   *Скриншоты задания №2*
 
+*vIP на первой ноде*
+
 ![Commit Task2](https://github.com/AndrewZnamenskiy/Keepalived/blob/main/img/task2p1.png)
+
+*Выключил nginx на первой ноде, vIP переехал на вторую ноду*
 
 ![Commit Task2](https://github.com/AndrewZnamenskiy/Keepalived/blob/main/img/task2p2.png)
 
