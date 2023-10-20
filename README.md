@@ -22,7 +22,7 @@
 ![Commit Task1](https://github.com/AndrewZnamenskiy/Keepalived/blob/main/img/task1p4.png)
 
 
-*Файл конфигурации Task1: [HSRP](Task1-cfg/hsrp_advanced_new.pkt)*
+*Файл конфигурации Task1: [HSRP](task1-cfg/hsrp_advanced_new.pkt)*
 
  ---
 
@@ -42,11 +42,11 @@
 ![Commit Task2](https://github.com/AndrewZnamenskiy/Keepalived/blob/main/img/task2p2.png)
 
 
-*Файлы конфигурации Task2: [keepalived для VM1](Task2-cfg/keepalived_vm1/keepalived.conf)*
-*Файлы конфигурации Task2: [script для VM1](Task2-cfg/keepalived_vm1/check_conditions.sh)*
+*Файлы конфигурации Task2: [keepalived для VM1](task2-cfg/keepalived_vm1/keepalived.conf)*
+*Файлы конфигурации Task2: [script для VM1](task2-cfg/keepalived_vm1/check_conditions.sh)*
 
-*Файлы конфигурации Task2: [keepalived для VM2](Task2-cfg/keepalived_vm2/keepalived.conf)*
-*Файлы конфигурации Task2: [script для VM2](Task2-cfg/keepalived_vm2/check_conditions.sh)*
+*Файлы конфигурации Task2: [keepalived для VM2](task2-cfg/keepalived_vm2/keepalived.conf)*
+*Файлы конфигурации Task2: [script для VM2](task2-cfg/keepalived_vm2/check_conditions.sh)*
 
 
  ---
